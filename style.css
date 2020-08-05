@@ -3,7 +3,7 @@ html, body {
   background-color: #232323;
 }
 
-body {
+body{
   margin: 0;
   display: flex;
 
@@ -15,11 +15,13 @@ body {
   align-items: center;
 }
 .infinte{
-   margin-top: -30px;
+ 
+  
    color: #f1f1f1;
    font-family: 'Antic Slab', serif;
-   font-size: 30px;
+   font-size: 50px;
    letter-spacing: 2px;
+   padding: 20px;
   
 }
 #snake{
@@ -27,3 +29,19 @@ body {
 	box-shadow: 5px 6px 6px #fff;
 
 }
+.pep{
+	display: flex;
+	flex-direction:row;
+	align-items: center;
+	justify-content:center;
+	color: #f1f1f1;
+
+	font-family: 'Antic Slab', serif;
+   font-size: 15px;
+   letter-spacing: 1px;
+  
+}
+.people1{
+ padding-right: 380px;
+}
+
