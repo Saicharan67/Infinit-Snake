@@ -144,7 +144,7 @@ function draw(){
 
     ctx.fillStyle = "white";
     ctx.font = "30px Changa one";
-    ctx.fillText("Score :",0.3*box,1.1*box);
+    ctx.fillText("Score :",0.3*box,1.3*box);
 }
 
 // call draw function every 100 ms
